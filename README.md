@@ -1,16 +1,17 @@
-## Hi there 👋
+# Jai Pandey
 
-<!--
-**ijaipandey/ijaipandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder & CEO of MedFast, working toward medicine delivery within 15 minutes in India.
 
-Here are some ideas to get you started:
+## What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **MedFast**: a healthtech venture focused on medicine access.
+- **JPZ Reports**: independent media, research and public awareness.
+
+## More about me
+
+- Author of *Out of the Line*; writing *The Founder Before the Company*.
+- Head of Strategy, Atlas Corporation.
+- Writer & Editorial Contributor, Annals of Global Thought.
+- Pursuing Higher Secondary Education in Humanities at S.S. High School & Junior College, Seawoods (2026-2028).
+
+"The future belongs to those who build it."
